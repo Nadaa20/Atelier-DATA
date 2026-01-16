@@ -8,3 +8,8 @@ Projet Atelier – Intégration des Données
 
 Exécution :
 python etl/off_etl_pyspark.py
+
+Le fichier source OpenFoodFacts (en.openfoodfacts.org.products.csv)
+n’est pas inclus dans le repo pour des raisons de taille.
+Il peut être téléchargé depuis :
+https://world.openfoodfacts.org/data
