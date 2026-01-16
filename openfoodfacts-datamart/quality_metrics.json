@@ -1,0 +1,12 @@
+{
+  "input_path": "data/en.openfoodfacts.org.products.csv",
+  "bronze_count": 4272621,
+  "silver_count": 4265209,
+  "duplicates_after_dedup": 0,
+  "avg_completeness_score": 0.7399137064561883,
+  "anomalies": {
+    "sugars_out_of_bounds": 6594,
+    "salt_out_of_bounds": 12462,
+    "salt_sodium_inconsistent": 36
+  }
+}
